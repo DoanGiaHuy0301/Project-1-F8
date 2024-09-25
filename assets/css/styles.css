@@ -59,7 +59,6 @@ a {
 .header {
   background: #e6f0ff;
   padding-top: 26px;
-  padding-bottom: 24px;
   position: sticky;
   top: -26px;
   z-index: 1;
@@ -73,6 +72,7 @@ a {
 .navbar {
   display: flex;
   align-items: center;
+  padding: 12px 0;
 }
 
 .header #pc-nav li a {
